@@ -1,5 +1,3 @@
-package ex4_mensagem;
-
 public class Ex4_Mensagem {
 
     public static void main(String[] args) {
