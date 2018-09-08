@@ -21,7 +21,7 @@ public class Ex2_Natacao {
         System.out.println();
         
         PesoIdeal pessoa1 = new PesoIdeal();
-        pessoa1.nome = "Emily";
+        pessoa1.nome = "Maria";
         pessoa1.altura = 1.56f;
         pessoa1.peso = 47.700f;
         pessoa1.sexo = 'F';
